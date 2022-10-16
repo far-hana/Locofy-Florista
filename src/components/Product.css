@@ -1,0 +1,128 @@
+.feature-1-div17 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-black);
+}
+.feature-1-div17,
+.image-icon8 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+
+.rating{
+
+  display: flex;
+  position: relative;
+  height: 8.17%;
+  top: 85.83%;
+}
+
+.rating-p10 {
+  margin: 0;
+  bottom: 0;
+}
+.image-icon8 {
+  height: 68.12%;
+  top: 0;
+  bottom: 31.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.name-p8 {
+  margin: 0;
+  height: 8.17%;
+  top: 70.3%;
+  bottom: 21.53%;
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  text-align: left;
+  display: inline-block;
+}
+.button-div13,
+.f1-content-div8,
+.name-p8,
+.price10 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.price10 {
+  margin: 0;
+  height: 8.17%;
+  top: 81.47%;
+  bottom: 10.35%;
+  font-weight: 700;
+  display: inline-block;
+}
+.button-div13 {
+  top: 0;
+}
+.f1-content-div8 {
+  height: 88.01%;
+  top: 0;
+  bottom: 11.99%;
+}
+.button-div13 {
+  height: 100%;
+  bottom: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+}
+.add-to-cart8 {
+  position: absolute;
+  height: 60%;
+  width: 92%;
+  top: 20%;
+  right: 4%;
+  bottom: 20%;
+  left: 4%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.add-to-cart-button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 9.59%;
+  width: 78.13%;
+  top: 90.41%;
+  right: 10.94%;
+  bottom: 0;
+  left: 10.94%;
+  margin-top: 10px;
+}
+.f1-content-button-div8 {
+  position: absolute;
+  height: 92.67%;
+  width: 91.43%;
+  top: 3.56%;
+  right: 4.29%;
+  bottom: 3.78%;
+  left: 4.29%;
+}
+.feature-1-div16 {
+  position: relative;
+  margin: 20px;
+  /* top: 0;
+  left: 0; */
+  width: 350px;
+  height: 450px;
+  text-align: justify;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-barlow);
+}

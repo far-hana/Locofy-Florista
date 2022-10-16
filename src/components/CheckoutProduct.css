@@ -1,0 +1,124 @@
+.checkout-product-background-div2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-black);
+}
+.checkout-product-image-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 26.32%;
+  top: 0;
+  right: 73.68%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.checkout-rating-div1 {
+  height: 17.39%;
+  width: 25%;
+  top: 52.17%;
+  right: 75%;
+  bottom: 30.43%;
+}
+.checkout-price-div1,
+.checkout-product-name-div1,
+.checkout-rating-div1 {
+  position: absolute;
+  left: 0;
+  top: 34%;
+  font-weight: 600;
+  display: flex;
+}
+.checkout-product-name-div1 {
+  height: 26.09%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 73.91%;
+  font-size: var(--font-size-base);
+}
+.checkout-price-div1 {
+  height: 17.39%;
+  width: 25%;
+  top: 30.43%;
+  right: 75%;
+  bottom: 52.17%;
+}
+.button-div14 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+}
+.remove-div1 {
+  position: absolute;
+  height: 83.33%;
+  width: 66.67%;
+  top: 10%;
+  right: 16.67%;
+  bottom: 6.67%;
+  left: 16.67%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.remove-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 26.09%;
+  width: 37.5%;
+  top: 73.91%;
+  right: 62.5%;
+  bottom: 0;
+  left: 0;
+  margin-top: 5px;
+}
+.checkout-product-desc-div1 {
+  position: absolute;
+  height: 88.46%;
+  width: 70.18%;
+  top: 6.15%;
+  right: 0;
+  bottom: 5.38%;
+  left: 29.82%;
+}
+.checkout-product-content-div1 {
+  position: absolute;
+  height: 86.67%;
+  width: 61.29%;
+  top: 6.67%;
+  right: 36.67%;
+  bottom: 6.67%;
+  left: 2.04%;
+}
+.checkout-product-section-div1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 930px;
+  height: 150px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+  margin-bottom: 20px;
+}

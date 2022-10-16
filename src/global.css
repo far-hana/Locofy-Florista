@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap");
+@font-face {
+  font-family: "Font Awesome 5 Free";
+  src: url("../public/fa-solid-900.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Font Awesome 5 Brands";
+  src: url("../public/fa-brands-400.ttf");
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-dm-serif-display: "DM Serif Display";
+  --font-font-awesome-5-free: "Font Awesome 5 Free";
+  --font-montserrat: Montserrat;
+  --font-barlow: Barlow;
+  --font-font-awesome-5-brands: "Font Awesome 5 Brands";
+
+  /* font sizes */
+  --font-size-sm: 20px;
+  --font-size-base: 24px;
+  --font-size-lg: 32px;
+  --font-size-xl: 36px;
+  --font-size-2xl: 40px;
+  --font-size-3xl: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #a39b9b;
+  --color-gray-200: #6d6464;
+
+  /* border radiuses */
+  --br-md: 10px;
+}
